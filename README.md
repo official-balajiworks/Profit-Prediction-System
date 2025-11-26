@@ -55,10 +55,3 @@ Run the cells that create and launch the Gradio interface. If running inside a n
 
 This repository was created as a simple educational demo. Adapt and reuse it freely.
 
----
-
-If you'd like, I can also:
-- Add a requirements.txt or pyproject.toml, or
-- Add a small Python script to run predictions from the command line.
-
-Tell me what you'd prefer next.
